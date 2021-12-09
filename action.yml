@@ -11,4 +11,4 @@ outputs:
     description: 'The time we greeted you'
 runs:
   using: 'docker'
-  image: docker://ghcr.io/kylezielinski-drizly/hello-world-docker-action:v002
+  image: docker://ghcr.io/kylezielinski-drizly/hello-world-docker-action:v003
